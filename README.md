@@ -13,4 +13,4 @@
 
 Есть кот по имени Стивен  
 
-! [stiven](stiven.png)
+![stiven](stiven.jpeg)
